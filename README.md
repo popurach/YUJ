@@ -40,6 +40,7 @@
 <img src="https://user-images.githubusercontent.com/49228132/219531818-207fd822-2ae2-4fa0-9790-d8f2c79b5bb0.gif" width="65%" height="65%"/>
 
 #### 실시간 채팅
+> 서비스 사용자들과 실시간 채팅을 할 수 있습니다.
 ![실시간 채팅](https://github.com/popurach/YUJ/assets/51961392/56995560-e412-41be-9c9d-d72ddf84aa9f)
 #### 마이 페이지
 > 현재 학습하고 있는 강의 및 출석률, 스케줄 정보를 확인할 수 있습니다.
