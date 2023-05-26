@@ -39,8 +39,8 @@
 <!-- ![yuj-pose-detection-success](https://user-images.githubusercontent.com/49228132/219531818-207fd822-2ae2-4fa0-9790-d8f2c79b5bb0.gif) -->
 <img src="https://user-images.githubusercontent.com/49228132/219531818-207fd822-2ae2-4fa0-9790-d8f2c79b5bb0.gif" width="65%" height="65%"/>
 
-#### 강의 시작(강사 시점)
-![강의 시작(강사 시점)](https://github.com/popurach/YUJ/assets/51961392/9933d67f-3465-469e-994a-de2558371e3f)
+#### 실시간 채팅
+![실시간 채팅](https://github.com/popurach/YUJ/assets/51961392/56995560-e412-41be-9c9d-d72ddf84aa9f)
 #### 마이 페이지
 > 현재 학습하고 있는 강의 및 출석률, 스케줄 정보를 확인할 수 있습니다.
 ![마이 페이지](https://github.com/popurach/YUJ/assets/51961392/ca73435e-4b25-4191-9f6d-3fbb93ad969e)
